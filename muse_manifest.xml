@@ -1,0 +1,25 @@
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="TimothyChen.me" resolutions="1x" timestamp="1455530291121">
+  <folder name="css">
+    <file name="site_global.css" crc="377731765"/>
+    <file name="index.css" crc="367316311" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fontawesome-webfont.woff" crc="4005222151"/>
+    <file name="fontawesome-webfont.eot" crc="69270328"/>
+    <file name="fontawesome-webfont.svg" crc="347027170"/>
+    <file name="bebas___-webfont.woff" crc="202976394"/>
+    <file name="bebas___-webfont.eot" crc="4266348164"/>
+    <file name="bebas___-webfont.svg" crc="96014747"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index"/>
+    <file name="museutils.js" crc="4190794036" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="index"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="in the clouds.jpg" crc="449695561" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4258004539" seo="true" mt="1455529910700" redirect="true"/>
+</manifest>

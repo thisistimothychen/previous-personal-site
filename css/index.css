@@ -1,0 +1,160 @@
+/*
+
+*/
+
+.version.index /* version checker */
+{
+	color: #000015;
+	background-color: #E4CD57;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1200px;
+	min-height: 790px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u120
+{
+	z-index: 2;
+	min-height: 791px;
+	background: #000000 url("../images/in%20the%20clouds.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u120_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 1200px;
+	left: -100px;
+}
+
+#u286
+{
+	z-index: 25;
+	width: 288px;
+	min-height: 791px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 924px;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u120-bw
+{
+	z-index: 2;
+	min-height: 791px;
+}
+
+#pu179-4
+{
+	width: 0.01px;
+	padding-bottom: 423px;
+	margin-right: -10000px;
+	margin-top: 309px;
+}
+
+#u179-4
+{
+	z-index: 3;
+	width: 676px;
+	min-height: 89px;
+	background-color: transparent;
+	line-height: 122px;
+	font-size: 102px;
+	color: #39535D;
+	font-family: '__Bebas Neue_5';
+	font-weight: 400;
+	position: fixed;
+	top: 309px;
+	left: 100px;
+}
+
+#u183-7
+{
+	z-index: 7;
+	width: 747px;
+	min-height: 51px;
+	background-color: transparent;
+	line-height: 29px;
+	font-size: 20px;
+	color: #3F5A67;
+	font-family: roboto, sans-serif;
+	font-weight: 400;
+	position: fixed;
+	top: 431px;
+	left: 100px;
+}
+
+#u188-11
+{
+	z-index: 14;
+	width: 172px;
+	min-height: 44px;
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 31px;
+	font-size: 26px;
+	letter-spacing: 13px;
+	font-family: '__FontAwesome_5';
+	font-weight: 400;
+	position: fixed;
+	bottom: 59px;
+	left: 100px;
+}
+
+#u188,#u188-3,#u188-5,#u188-7
+{
+	color: #3F5A67;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 1200px;
+}
+
+@font-face
+{
+	font-family: '__FontAwesome_5';
+	src: url('../fonts/fontawesome-webfont.eot');
+	src: local('☺'), url('../fonts/fontawesome-webfont.woff') format('woff'), url('../fonts/fontawesome-webfont.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__Bebas Neue_5';
+	src: url('../fonts/bebas___-webfont.eot');
+	src: local('☺'), url('../fonts/bebas___-webfont.woff') format('woff'), url('../fonts/bebas___-webfont.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
