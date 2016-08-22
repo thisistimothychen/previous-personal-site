@@ -1,0 +1,149 @@
+/*
+
+*/
+
+.version.index /* version checker */
+{
+	color: #000009;
+	background-color: #356CD3;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 497px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-top: 131px;
+	padding-bottom: 396px;
+	width: 100%;
+	max-width: 768px;
+}
+
+#u712-4
+{
+	z-index: 2;
+	min-height: 96px;
+	background-color: transparent;
+	line-height: 98px;
+	font-size: 82px;
+	text-align: center;
+	color: #39535D;
+	font-family: '__Bebas Neue_5';
+	font-weight: 400;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u712-4-bw
+{
+	z-index: 2;
+	min-height: 96px;
+}
+
+#u713-10
+{
+	z-index: 6;
+	min-height: 176px;
+	background-color: transparent;
+	line-height: 29px;
+	font-size: 20px;
+	text-align: center;
+	color: #3F5A67;
+	font-family: '__Roboto_5';
+	font-weight: 400;
+}
+
+#u713-10-bw
+{
+	z-index: 6;
+	min-height: 176px;
+	margin-top: 76px;
+}
+
+#u714-14
+{
+	z-index: 16;
+	min-height: 44px;
+	background-color: transparent;
+	font-size: 32px;
+	color: #FFFFFF;
+	letter-spacing: 13px;
+	line-height: 38px;
+	text-align: center;
+	font-family: '__FontAwesome_5';
+	font-weight: 400;
+}
+
+#u714
+{
+	letter-spacing: 1px;
+	color: #39535D;
+}
+
+#u714-2,#u714-4,#u714-6,#u714-8,#u714-10
+{
+	color: #3F5A67;
+}
+
+#u714-14-bw
+{
+	z-index: 16;
+	min-height: 44px;
+	margin-top: 104px;
+}
+
+.html
+{
+	background: #FFFFFF url("../../images/in%20the%20clouds.jpg") no-repeat center top scroll;
+	background-size: cover;
+}
+
+body
+{
+	position: relative;
+	min-width: 500px;
+}
+
+@font-face
+{
+	font-family: '__Roboto_5';
+	src: url('../../fonts/roboto-regular-webfont.eot');
+	src: local('☺'), url('../../fonts/roboto-regular-webfont.woff') format('woff'), url('../../fonts/roboto-regular-webfont.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__FontAwesome_5';
+	src: url('../../fonts/fontawesome-webfont.eot');
+	src: local('☺'), url('../../fonts/fontawesome-webfont.woff') format('woff'), url('../../fonts/fontawesome-webfont.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__Bebas Neue_5';
+	src: url('../../fonts/bebas___-webfont.eot');
+	src: local('☺'), url('../../fonts/bebas___-webfont.woff') format('woff'), url('../../fonts/bebas___-webfont.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+

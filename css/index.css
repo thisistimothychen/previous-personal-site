@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #000015;
-	background-color: #E4CD57;
+	color: #0000EE;
+	background-color: #1034AD;
 }
 
 #page
@@ -40,7 +40,7 @@
 
 #u286
 {
-	z-index: 25;
+	z-index: 24;
 	width: 288px;
 	min-height: 791px;
 	border-width: 0px;
@@ -91,7 +91,7 @@
 	left: 100px;
 }
 
-#u183-7
+#u183-4
 {
 	z-index: 7;
 	width: 747px;
@@ -100,22 +100,22 @@
 	line-height: 29px;
 	font-size: 20px;
 	color: #3F5A67;
-	font-family: roboto, sans-serif;
+	font-family: '__Roboto_5';
 	font-weight: 400;
 	position: fixed;
 	top: 431px;
 	left: 100px;
 }
 
-#u188-11
+#u188-13
 {
-	z-index: 14;
-	width: 172px;
+	z-index: 11;
+	width: 293px;
 	min-height: 44px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 31px;
 	font-size: 26px;
+	color: #FFFFFF;
 	letter-spacing: 13px;
 	font-family: '__FontAwesome_5';
 	font-weight: 400;
@@ -124,7 +124,7 @@
 	left: 100px;
 }
 
-#u188,#u188-3,#u188-5,#u188-7
+#u188,#u188-3,#u188-5,#u188-7,#u188-9
 {
 	color: #3F5A67;
 }
@@ -138,6 +138,15 @@ body
 {
 	position: relative;
 	min-width: 1200px;
+}
+
+@font-face
+{
+	font-family: '__Roboto_5';
+	src: url('../fonts/roboto-regular-webfont.eot');
+	src: local('☺'), url('../fonts/roboto-regular-webfont.woff') format('woff'), url('../fonts/roboto-regular-webfont.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
 }
 
 @font-face
